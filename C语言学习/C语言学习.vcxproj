@@ -37,6 +37,9 @@
     <ClCompile Include="1.9.8free注意点.c" />
     <ClCompile Include="1.9.9malloc一维数组.c" />
     <ClCompile Include="1.9.Amalloc与一维二维数组指针.c" />
+    <ClCompile Include="1.9.Bcalloc函数介绍.c" />
+    <ClCompile Include="1.9.Crealloc函数介绍.c" />
+    <ClCompile Include="1.9.Dmalloc与calloc的选择.c" />
     <ClCompile Include="2.10.0函数.cpp" />
     <ClCompile Include="2.11.0字符与字符串.cpp" />
     <ClCompile Include="2.12.0结构体.cpp" />
