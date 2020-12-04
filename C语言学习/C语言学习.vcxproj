@@ -42,6 +42,10 @@
     <ClCompile Include="1.9.Dmalloc与calloc的选择.c" />
     <ClCompile Include="2.10.0函数.cpp" />
     <ClCompile Include="2.10.1函数的概念以及意义.c" />
+    <ClCompile Include="2.10.2函数的作用之代码重复性.c" />
+    <ClCompile Include="2.10.3代码的可读性以及函数的执行过程.c" />
+    <ClCompile Include="2.10.4无参数无返回值函数.c" />
+    <ClCompile Include="2.10.5函数名命名注意点.c" />
     <ClCompile Include="2.11.0字符与字符串.cpp" />
     <ClCompile Include="2.12.0结构体.cpp" />
     <ClCompile Include="2.13.0内存管理.cpp" />

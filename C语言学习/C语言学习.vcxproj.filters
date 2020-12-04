@@ -102,6 +102,18 @@
     <ClCompile Include="2.10.1函数的概念以及意义.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.2函数的作用之代码重复性.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10.3代码的可读性以及函数的执行过程.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10.4无参数无返回值函数.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10.5函数名命名注意点.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
