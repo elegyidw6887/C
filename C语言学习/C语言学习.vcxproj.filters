@@ -117,6 +117,9 @@
     <ClCompile Include="2.10.6函数的参数列表和函数体.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.7函数调用.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
