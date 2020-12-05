@@ -2,14 +2,27 @@
 函数名命名注意点
 */
 
-#include<stdio.h>
-#include<stdlib.h>
-
-int main(void)
-{
-
-
-
-	system("pause");
-	return;
-}
+//#include<stdio.h>
+//#include<stdlib.h>
+//
+//int main(void)
+//{
+//	/*
+//	
+//	函数名称命名：
+//		1.尽量表现出函数本身的功能，以方便读写
+//
+//		2.函数命名无长度上线，不必要使用缩写
+//
+//		3.如果不会书写英文，使用拼音也未尝不可，但是不可以使用中文
+//
+//		4.尽量符合规范，以方便后续的读写
+//			每个单词的首字母大写：FindMaxNumber
+//			如果全部使用小写字母，可以使用下划线区分：find_max_number
+//			主要的目的还是【易读（可读性）】和【美观（统一性）】
+//	*/
+//
+//
+//	system("pause");
+//	return;
+//}
