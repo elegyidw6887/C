@@ -51,6 +51,7 @@
     <ClCompile Include="2.10.8函数调用本质.c" />
     <ClCompile Include="2.10.9函数声明.c" />
     <ClCompile Include="2.10.A函数使用时候注意点.c" />
+    <ClCompile Include="2.10.B无参数有返回值的函数.c" />
     <ClCompile Include="2.11.0【字符与字符串】.cpp" />
     <ClCompile Include="2.12.0【结构体】.cpp" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />

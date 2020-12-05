@@ -129,6 +129,9 @@
     <ClCompile Include="2.16.0【文件操作】.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.B无参数有返回值的函数.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
