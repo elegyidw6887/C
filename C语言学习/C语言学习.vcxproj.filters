@@ -144,6 +144,9 @@
     <ClCompile Include="2.10.F有参数的函数原型.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.G通过参数修改外部的值.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
