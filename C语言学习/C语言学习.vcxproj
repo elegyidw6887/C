@@ -62,6 +62,7 @@
     <ClCompile Include="2.10.M一维数组做参数.c" />
     <ClCompile Include="2.10.N二维数组做参数.c" />
     <ClCompile Include="2.10.O有参数有返回值的函数.c" />
+    <ClCompile Include="2.10.P函数地址.c" />
     <ClCompile Include="2.11.0【字符与字符串】.cpp" />
     <ClCompile Include="2.12.0【结构体】.cpp" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
