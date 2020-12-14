@@ -165,6 +165,12 @@
     <ClCompile Include="2.10.P函数地址.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.Q递归函数对比循环（理解一）.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.0【递归函数进阶】.cpp">
+      <Filter>进阶内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">

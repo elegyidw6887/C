@@ -63,12 +63,14 @@
     <ClCompile Include="2.10.N二维数组做参数.c" />
     <ClCompile Include="2.10.O有参数有返回值的函数.c" />
     <ClCompile Include="2.10.P函数地址.c" />
+    <ClCompile Include="2.10.Q递归函数对比循环（理解一）.c" />
     <ClCompile Include="2.11.0【字符与字符串】.cpp" />
     <ClCompile Include="2.12.0【结构体】.cpp" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
     <ClCompile Include="2.15.0【位运算】.cpp" />
     <ClCompile Include="2.16.0【文件操作】.cpp" />
+    <ClCompile Include="3.1.0【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c" />
