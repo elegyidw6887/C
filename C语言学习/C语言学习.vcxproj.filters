@@ -177,6 +177,9 @@
     <ClCompile Include="2.10.S递归函数的通项公式（理解三）.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.10.V递归的优缺点.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
