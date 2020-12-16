@@ -67,6 +67,7 @@
     <ClCompile Include="2.10.R递归函数的展开（理解二）.c" />
     <ClCompile Include="2.10.S递归函数的通项公式（理解三）.c" />
     <ClCompile Include="2.10.V递归的优缺点.c" />
+    <ClCompile Include="2.10.W参数个数不确定的函数.c" />
     <ClCompile Include="2.11.0【字符与字符串】.cpp" />
     <ClCompile Include="2.12.0【结构体】.cpp" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
