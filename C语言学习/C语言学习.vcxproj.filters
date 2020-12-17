@@ -196,7 +196,7 @@
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.11.5字符输入scanf.c">
-      <Filter>进阶内容</Filter>
+      <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
