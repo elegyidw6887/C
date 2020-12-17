@@ -198,6 +198,9 @@
     <ClCompile Include="2.11.5字符输入scanf.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.11.6scanf_s、getchar与_getch.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
