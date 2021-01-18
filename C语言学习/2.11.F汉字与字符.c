@@ -17,6 +17,14 @@
 //	char str1[3] = "嗨";//汉字为2字节，由于是字符串，还存在一个\0，所以最少要声明3个字节
 //	printf("%s\n", str1);
 //
+//	char temp;
+//	temp = str1[0];
+//	str1[0] = str1[1];
+//	str1[1] = temp;
+//	printf("%x   %hu\n", *(short*)str1, *(short*)str1);/*
+//													   高低位转换，之后通过强转换来输出对应的16进制结果，用%hu来输出10进制结果
+//													   */
+//
 //
 //	system("pause");
 //	return 0;
