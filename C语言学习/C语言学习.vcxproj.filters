@@ -222,6 +222,9 @@
     <ClCompile Include="2.11.D字符串操作函数.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.11.E字符串的输入.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
