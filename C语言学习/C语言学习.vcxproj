@@ -87,6 +87,7 @@
     <ClCompile Include="2.11.Gstrlen与strcmp.c" />
     <ClCompile Include="2.11.H更多字符串操作函数.c" />
     <ClCompile Include="2.11.M转义字符和转换说明符.c" />
+    <ClCompile Include="2.11.N字符串数组与二维字符数组.c" />
     <ClCompile Include="2.12.0【结构体】.cpp" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
