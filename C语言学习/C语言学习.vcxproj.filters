@@ -252,6 +252,9 @@
     <ClCompile Include="2.12.4结构体成员赋值.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.12.5指针成员与函数成员.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
