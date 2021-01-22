@@ -273,6 +273,9 @@
     <ClCompile Include="2.12.Bunion成员的内存模型以及联合的大小.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.12.C枚举的声明与意义.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
