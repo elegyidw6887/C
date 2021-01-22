@@ -99,6 +99,7 @@
     <ClCompile Include="2.12.8内存对齐.c" />
     <ClCompile Include="2.12.9结构体大小计算规则.c" />
     <ClCompile Include="2.12.A联合union.c" />
+    <ClCompile Include="2.12.Bunion成员的内存模型以及联合的大小.c" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
     <ClCompile Include="2.15.0【位运算】.cpp" />
