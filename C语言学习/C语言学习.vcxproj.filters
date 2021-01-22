@@ -264,6 +264,9 @@
     <ClCompile Include="2.12.8内存对齐.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.12.9结构体大小计算规则.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
