@@ -103,6 +103,7 @@
     <ClCompile Include="2.12.C枚举的声明与意义.c" />
     <ClCompile Include="2.12.D枚举的大小.c" />
     <ClCompile Include="2.13.0【内存管理】.cpp" />
+    <ClCompile Include="2.13.1隐式类型转换简介.c" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
     <ClCompile Include="2.15.0【位运算】.cpp" />
     <ClCompile Include="2.16.0【文件操作】.cpp" />
