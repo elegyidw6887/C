@@ -114,10 +114,11 @@
     <ClCompile Include="2.13.9参数宏的使用方法.c" />
     <ClCompile Include="2.13.A宏的几个指示符.c" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
-    <ClCompile Include="2.14.1多文件p1.h" />
+    <ClCompile Include="2.14.1多文件源代码p1.h" />
     <ClCompile Include="2.14.1多文件的形式及其作用.c" />
-    <ClCompile Include="2.14.1多文件p1.c" />
+    <ClCompile Include="2.14.1多文件源代码p1.c" />
     <ClCompile Include="2.14.2include的作用.c" />
+    <ClCompile Include="2.14.3函数调用的过程.c" />
     <ClCompile Include="2.15.0【位运算】.cpp" />
     <ClCompile Include="2.16.0【文件操作】.cpp" />
     <ClCompile Include="3.1.0【递归函数进阶】.cpp" />
