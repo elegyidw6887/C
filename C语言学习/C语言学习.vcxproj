@@ -110,6 +110,7 @@
     <ClCompile Include="2.13.5大小端存储的区别.c" />
     <ClCompile Include="2.13.6typedef.c" />
     <ClCompile Include="2.13.7宏define简介.c" />
+    <ClCompile Include="2.13.8表达式宏的注意点.c" />
     <ClCompile Include="2.14.0【多文件】.cpp" />
     <ClCompile Include="2.15.0【位运算】.cpp" />
     <ClCompile Include="2.16.0【文件操作】.cpp" />
