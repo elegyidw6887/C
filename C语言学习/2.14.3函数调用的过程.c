@@ -2,18 +2,20 @@
 函数调用的过程
 */
 
-#include<stdio.h>
-#include<stdlib.h>
-
-int main(void)
-{
-	/*
-	
-	
-	
-	*/
-
-
-	system("pause");
-	return 0;
-}
+//#include<stdio.h>
+//#include<stdlib.h>
+//
+//int main(void)
+//{
+//	/*
+//	
+//	函数调用的过程：
+//		多文件函数在执行的过程中，主函数调用函数时，并不是直接到对应的文件内去执行代码，而是代码提前加载进内存之中，函数在调用的时候直接去内存的
+//		指定地址去运行
+//	
+//	*/
+//
+//
+//	system("pause");
+//	return 0;
+//}
