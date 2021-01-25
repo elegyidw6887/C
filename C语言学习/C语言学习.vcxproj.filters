@@ -9,7 +9,7 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="多文件相关文件">
+    <Filter Include="课程多文件相关文件">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
@@ -319,10 +319,13 @@
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.14.1多文件源代码p1.c">
-      <Filter>多文件相关文件</Filter>
+      <Filter>课程多文件相关文件</Filter>
     </ClCompile>
     <ClCompile Include="2.14.1多文件源代码p1.h">
-      <Filter>多文件相关文件</Filter>
+      <Filter>课程多文件相关文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.14.4双引号与尖引号的区别.c">
+      <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
