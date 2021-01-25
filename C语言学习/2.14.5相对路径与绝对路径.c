@@ -2,21 +2,32 @@
 绝对路径与相对路径
 */
 
-#include<stdio.h>
-#include<stdlib.h>
-
-int main(void)
-{
-	/*
-	
-	绝对路径：
-		
-
-	相对路径：
-	
-	*/
-
-
-	system("pause");
-	return 0;
-}
+//#include<stdio.h>
+//#include<stdlib.h>
+//
+//int main(void)
+//{
+//	/*
+//	
+//	绝对路径：
+//		完整路径，是指文件在磁盘中的完整的路径，例如VS的根目录
+//		C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE
+//		如果在编译的过程中更改了头文件的路径，可以直接在双引号中添加修改后的绝对路径来完成引用
+//		但是由于路径中存在\，可能会被系统解释为转移字符，因此在书写路径的时候，建议书写为双反斜杠，也就是\\
+//
+//	相对路径：
+//		#include<stdio.h>
+//		在include中的<stdio.h>就是一种相对路径，是编译器所设置的默认路径，在调用的时候系统也会在绝对路径下寻找文件，只不过形式上更简便
+//
+//	../的功能
+//		../是一个路径回退操作符，用在路径前方，用于回退到上级路径
+//
+//	./的功能
+//		./是当前路径
+//	
+//	*/
+//
+//
+//	system("pause");
+//	return 0;
+//}
