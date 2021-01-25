@@ -117,9 +117,6 @@
     <ClCompile Include="2.10.Q递归函数对比循环（理解一）.c">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="3.1.0【递归函数进阶】.cpp">
-      <Filter>进阶内容</Filter>
-    </ClCompile>
     <ClCompile Include="2.10.R递归函数的展开（理解二）.c">
       <Filter>基础内容</Filter>
     </ClCompile>
@@ -329,6 +326,9 @@
     </ClCompile>
     <ClCompile Include="2.16.0-【文件操作】.cpp">
       <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.0-【递归函数进阶】.cpp">
+      <Filter>进阶内容</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

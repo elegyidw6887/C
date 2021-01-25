@@ -123,7 +123,7 @@
     <ClCompile Include="2.14.5相对路径与绝对路径.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
-    <ClCompile Include="3.1.0【递归函数进阶】.cpp" />
+    <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c" />
