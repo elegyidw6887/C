@@ -75,58 +75,7 @@
     <ClCompile Include="2.10.A函数使用时候注意点.c">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="0.0.0【课程内容来源为C3程序猿】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
     <ClCompile Include="0.0.1书写程序的七个步骤.c">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.1.0【一个简单的输出程序】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.2.0【数据类型的学习】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.3.0【浮点型的基本知识点】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.4.0【运算符基础】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.5.0【循环】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.6.0【选择判断】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.7.0【数组】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.8.0【指针】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="1.9.0【堆区空间申请】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.10.0【函数】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.11.0【字符与字符串】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.12.0【结构体】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.13.0【内存管理】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.14.0【多文件】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.15.0【位运算】.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.16.0【文件操作】.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.10.B无参数有返回值的函数.c">
@@ -328,6 +277,57 @@
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.14.5相对路径与绝对路径.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="0.0.0-【课程内容来源为C3程序猿】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.0-【一个简单的输出程序】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.0-【数据类型的学习】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.0-【浮点型的基本知识点】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.4.0-【运算符基础】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.5.0-【循环】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.6.0-【选择判断】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.7.0-【数组】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.8.0-【指针】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="1.9.0-【堆区空间申请】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.10.0-【函数】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.11.0-【字符与字符串】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.12.0-【结构体】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.13.0-【内存管理】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.14.0-【多文件】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.15.0-【位运算】.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.16.0-【文件操作】.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>

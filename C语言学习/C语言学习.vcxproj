@@ -19,17 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0.0.0【课程内容来源为C3程序猿】.cpp" />
+    <ClCompile Include="0.0.0-【课程内容来源为C3程序猿】.cpp" />
     <ClCompile Include="0.0.1书写程序的七个步骤.c" />
-    <ClCompile Include="1.1.0【一个简单的输出程序】.cpp" />
-    <ClCompile Include="1.2.0【数据类型的学习】.cpp" />
-    <ClCompile Include="1.3.0【浮点型的基本知识点】.cpp" />
-    <ClCompile Include="1.4.0【运算符基础】.cpp" />
-    <ClCompile Include="1.5.0【循环】.cpp" />
-    <ClCompile Include="1.6.0【选择判断】.cpp" />
-    <ClCompile Include="1.7.0【数组】.cpp" />
-    <ClCompile Include="1.8.0【指针】.cpp" />
-    <ClCompile Include="1.9.0【堆区空间申请】.cpp" />
+    <ClCompile Include="1.1.0-【一个简单的输出程序】.cpp" />
+    <ClCompile Include="1.2.0-【数据类型的学习】.cpp" />
+    <ClCompile Include="1.3.0-【浮点型的基本知识点】.cpp" />
+    <ClCompile Include="1.4.0-【运算符基础】.cpp" />
+    <ClCompile Include="1.5.0-【循环】.cpp" />
+    <ClCompile Include="1.6.0-【选择判断】.cpp" />
+    <ClCompile Include="1.7.0-【数组】.cpp" />
+    <ClCompile Include="1.8.0-【指针】.cpp" />
+    <ClCompile Include="1.9.0-【堆区空间申请】.cpp" />
     <ClCompile Include="1.9.1栈区变量分析.c" />
     <ClCompile Include="1.9.2malloc函数介绍.c" />
     <ClCompile Include="1.9.3size_t详解.c" />
@@ -40,7 +40,7 @@
     <ClCompile Include="1.9.Bcalloc函数介绍.c" />
     <ClCompile Include="1.9.Crealloc函数介绍.c" />
     <ClCompile Include="1.9.Dmalloc与calloc的选择.c" />
-    <ClCompile Include="2.10.0【函数】.cpp" />
+    <ClCompile Include="2.10.0-【函数】.cpp" />
     <ClCompile Include="2.10.1函数的概念以及意义.c" />
     <ClCompile Include="2.10.2函数的作用之代码重复性.c" />
     <ClCompile Include="2.10.3代码的可读性以及函数的执行过程.c" />
@@ -68,7 +68,7 @@
     <ClCompile Include="2.10.S递归函数的通项公式（理解三）.c" />
     <ClCompile Include="2.10.V递归的优缺点.c" />
     <ClCompile Include="2.10.W参数个数不确定的函数.c" />
-    <ClCompile Include="2.11.0【字符与字符串】.cpp" />
+    <ClCompile Include="2.11.0-【字符与字符串】.cpp" />
     <ClCompile Include="2.11.1字符介绍.c" />
     <ClCompile Include="2.11.2字符变量的定义.c" />
     <ClCompile Include="2.11.3char的大小.c" />
@@ -88,7 +88,7 @@
     <ClCompile Include="2.11.H更多字符串操作函数.c" />
     <ClCompile Include="2.11.M转义字符和转换说明符.c" />
     <ClCompile Include="2.11.N字符串数组与二维字符数组.c" />
-    <ClCompile Include="2.12.0【结构体】.cpp" />
+    <ClCompile Include="2.12.0-【结构体】.cpp" />
     <ClCompile Include="2.12.1声明结构体.c" />
     <ClCompile Include="2.12.2结构体变量的声明与定义.c" />
     <ClCompile Include="2.12.3结构体成员运算符.c" />
@@ -102,7 +102,7 @@
     <ClCompile Include="2.12.Bunion成员的内存模型以及联合的大小.c" />
     <ClCompile Include="2.12.C枚举的声明与意义.c" />
     <ClCompile Include="2.12.D枚举的大小.c" />
-    <ClCompile Include="2.13.0【内存管理】.cpp" />
+    <ClCompile Include="2.13.0-【内存管理】.cpp" />
     <ClCompile Include="2.13.1隐式类型转换简介.c" />
     <ClCompile Include="2.13.2隐式类型转换注意点.c" />
     <ClCompile Include="2.13.3显式类型转换简介.c" />
@@ -113,7 +113,7 @@
     <ClCompile Include="2.13.8表达式宏的注意点.c" />
     <ClCompile Include="2.13.9参数宏的使用方法.c" />
     <ClCompile Include="2.13.A宏的几个指示符.c" />
-    <ClCompile Include="2.14.0【多文件】.cpp" />
+    <ClCompile Include="2.14.0-【多文件】.cpp" />
     <ClCompile Include="2.14.1多文件源代码p1.h" />
     <ClCompile Include="2.14.1多文件的形式及其作用.c" />
     <ClCompile Include="2.14.1多文件源代码p1.c" />
@@ -121,8 +121,8 @@
     <ClCompile Include="2.14.3函数调用的过程.c" />
     <ClCompile Include="2.14.4双引号与尖引号的区别.c" />
     <ClCompile Include="2.14.5相对路径与绝对路径.c" />
-    <ClCompile Include="2.15.0【位运算】.cpp" />
-    <ClCompile Include="2.16.0【文件操作】.cpp" />
+    <ClCompile Include="2.15.0-【位运算】.cpp" />
+    <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
