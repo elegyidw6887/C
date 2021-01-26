@@ -123,6 +123,7 @@
     <ClCompile Include="2.14.5相对路径与绝对路径.c" />
     <ClCompile Include="2.14.6头文件重复包含.c" />
     <ClCompile Include="2.14.7重复包含解决方法.c" />
+    <ClCompile Include="2.14.8头文件相互包含.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
