@@ -121,6 +121,7 @@
     <ClCompile Include="2.14.3函数调用的过程.c" />
     <ClCompile Include="2.14.4双引号与尖引号的区别.c" />
     <ClCompile Include="2.14.5相对路径与绝对路径.c" />
+    <ClCompile Include="2.14.6头文件重复包含.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
@@ -129,6 +130,9 @@
     <None Include="1.9.4malloc申请空间的讨论.c" />
     <None Include="1.9.5malloc空间赋值.c" />
     <None Include="1.9.6malloc注意点.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2.14.6多文件源代码p6.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
