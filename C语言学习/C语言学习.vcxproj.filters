@@ -351,6 +351,9 @@
     <ClCompile Include="2.14.B局部变量的特点.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.14.C静态存储区与全局变量.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">

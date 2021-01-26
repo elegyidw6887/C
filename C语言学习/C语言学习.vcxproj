@@ -128,6 +128,7 @@
     <ClCompile Include="2.14.9由结构体导致的互相包含问题.c" />
     <ClCompile Include="2.14.A局部变量的认识.c" />
     <ClCompile Include="2.14.B局部变量的特点.c" />
+    <ClCompile Include="2.14.C静态存储区与全局变量.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
