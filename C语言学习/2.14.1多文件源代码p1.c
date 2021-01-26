@@ -1,4 +1,5 @@
 #include"2.14.1多文件源代码p1.h"
+#include"2.14.6多文件源代码p6.h"
 
 int SUM(int a, int b)
 {

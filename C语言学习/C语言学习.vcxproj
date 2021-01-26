@@ -122,6 +122,7 @@
     <ClCompile Include="2.14.4双引号与尖引号的区别.c" />
     <ClCompile Include="2.14.5相对路径与绝对路径.c" />
     <ClCompile Include="2.14.6头文件重复包含.c" />
+    <ClCompile Include="2.14.7重复包含解决方法.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
@@ -132,6 +133,7 @@
     <None Include="1.9.6malloc注意点.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="2.14.0Common.h" />
     <ClInclude Include="2.14.6多文件源代码p6.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
