@@ -360,6 +360,15 @@
     <ClCompile Include="2.14.D全局变量测试.c">
       <Filter>课程多文件相关文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.14.E全局变量与多文件关系.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.14.E全局变量与多文件1.c">
+      <Filter>课程多文件相关文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.14.E全局变量与多文件2.c">
+      <Filter>课程多文件相关文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
