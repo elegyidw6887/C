@@ -378,6 +378,9 @@
     <ClCompile Include="2.14.H静态局部变量的介绍.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.14.M寄存器变量register.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
