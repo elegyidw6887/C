@@ -141,6 +141,7 @@
     <ClCompile Include="2.14.N介绍const.c" />
     <ClCompile Include="2.14.O修饰指针const.c" />
     <ClCompile Include="2.14.Pvolatile与restrict.c" />
+    <ClCompile Include="2.14.S通过命令行参数打开文件.c" />
     <ClCompile Include="2.14.Q内存分区.c" />
     <ClCompile Include="2.14.R命令行参数.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
