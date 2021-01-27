@@ -141,6 +141,7 @@
     <ClCompile Include="2.14.N介绍const.c" />
     <ClCompile Include="2.14.O修饰指针const.c" />
     <ClCompile Include="2.14.Pvolatile与restrict.c" />
+    <ClCompile Include="2.14.Q内存分区.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
