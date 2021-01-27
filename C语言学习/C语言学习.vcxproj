@@ -138,6 +138,7 @@
     <ClCompile Include="2.14.G静态全局变量static.c" />
     <ClCompile Include="2.14.M寄存器变量register.c" />
     <ClCompile Include="2.14.H静态局部变量的介绍.c" />
+    <ClCompile Include="2.14.N介绍const.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
