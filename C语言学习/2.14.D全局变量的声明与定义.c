@@ -2,7 +2,7 @@
 全局变量的声明与定义
 */
 
-//#include"2.14.0Common.h"
+//#include"Common.h"
 //#include"2.14.D全局变量测试.h"
 //
 //int e = 25;

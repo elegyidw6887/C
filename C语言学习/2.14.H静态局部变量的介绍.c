@@ -2,7 +2,7 @@
 静态局部变量的介绍
 */
 
-//#include"2.14.0Common.h"
+//#include"Common.h"
 //
 //void Fun(void)
 //{

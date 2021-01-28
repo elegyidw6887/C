@@ -408,6 +408,9 @@
     <ClCompile Include="2.15.1基数相加法c.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.15.2反转取余法.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
@@ -427,9 +430,6 @@
     <ClInclude Include="2.14.6多文件源代码p6.h">
       <Filter>课程多文件相关文件</Filter>
     </ClInclude>
-    <ClInclude Include="2.14.0Common.h">
-      <Filter>课程多文件相关文件</Filter>
-    </ClInclude>
     <ClInclude Include="2.14.8互相包含1p8.h">
       <Filter>课程多文件相关文件</Filter>
     </ClInclude>
@@ -443,6 +443,9 @@
       <Filter>课程多文件相关文件</Filter>
     </ClInclude>
     <ClInclude Include="2.14.D全局变量测试.h">
+      <Filter>课程多文件相关文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
       <Filter>课程多文件相关文件</Filter>
     </ClInclude>
   </ItemGroup>

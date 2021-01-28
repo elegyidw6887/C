@@ -2,7 +2,7 @@
 静态全局变量static
 */
 
-//#include"2.14.0Common.h"
+//#include"Common.h"
 //
 //static int a = 25;
 //

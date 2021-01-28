@@ -2,7 +2,7 @@
 全局变量与多文件关系
 */
 
-//#include"2.14.0Common.h"
+//#include"Common.h"
 //
 //void Fun1(void);
 //void Fun2(void);

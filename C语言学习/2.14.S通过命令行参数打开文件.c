@@ -2,7 +2,7 @@
 通过命令行参数打开文件
 */
 
-//#include"2.14.0Common.h"
+//#include"Common.h"
 //
 //int main(void)
 //{
