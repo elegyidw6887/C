@@ -149,6 +149,8 @@
     <ClCompile Include="2.15.0-【位运算】.cpp" />
     <ClCompile Include="2.15.1基数相加法c.cpp" />
     <ClCompile Include="2.15.2反转取余法.c" />
+    <ClCompile Include="2.15.3进制间相互转换c.cpp" />
+    <ClCompile Include="2.15.4按位取反运算符以及整数的存储.c" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
