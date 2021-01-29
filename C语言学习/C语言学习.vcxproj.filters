@@ -423,6 +423,9 @@
     <ClCompile Include="2.15.6按位异或.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.15.7移位运算符.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
