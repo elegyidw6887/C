@@ -154,6 +154,7 @@
     <ClCompile Include="2.15.5按位或、按位与.c" />
     <ClCompile Include="2.15.6按位异或.c" />
     <ClCompile Include="2.15.7移位运算符.c" />
+    <ClCompile Include="2.15.8位字段简介.c" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
