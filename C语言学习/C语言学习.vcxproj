@@ -167,6 +167,7 @@
     <ClCompile Include="2.16.8文件读写结构体.c" />
     <ClCompile Include="2.16.9Fputs与Fgets.c" />
     <ClCompile Include="2.16.Afprintf与fscanf.c" />
+    <ClCompile Include="2.16.Bfseek与ftell.c" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
