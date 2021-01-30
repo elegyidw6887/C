@@ -435,9 +435,6 @@
     <ClCompile Include="2.16.1文件操作fopen.c">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.16.2文本模式与二进制模式c.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
     <ClCompile Include="2.16.3fopen_s与errno.c">
       <Filter>基础内容</Filter>
     </ClCompile>
@@ -448,6 +445,12 @@
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.16.6函数简介fread.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.16.7文本模式与二进制模式深入.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.16.2文本模式与二进制模式.c">
       <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>

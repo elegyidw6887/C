@@ -158,11 +158,12 @@
     <ClCompile Include="2.15.8位字段简介.c" />
     <ClCompile Include="2.16.0-【文件操作】.cpp" />
     <ClCompile Include="2.16.1文件操作fopen.c" />
-    <ClCompile Include="2.16.2文本模式与二进制模式c.cpp" />
+    <ClCompile Include="2.16.2文本模式与二进制模式.c" />
     <ClCompile Include="2.16.3fopen_s与errno.c" />
     <ClCompile Include="2.16.4文件写入数据fwrite.c" />
     <ClCompile Include="2.16.5换行输入fwrite.c" />
     <ClCompile Include="2.16.6函数简介fread.c" />
+    <ClCompile Include="2.16.7文本模式与二进制模式深入.c" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
