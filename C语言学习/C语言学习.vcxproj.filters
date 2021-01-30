@@ -435,6 +435,9 @@
     <ClCompile Include="2.16.1文件操作fopen.c">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.16.2文本模式与二进制模式c.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.9.4malloc申请空间的讨论.c">
