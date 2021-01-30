@@ -148,9 +148,9 @@
     <ClCompile Include="2.14.T随机数.c" />
     <ClCompile Include="2.14.U随机数应用.c" />
     <ClCompile Include="2.15.0-【位运算】.cpp" />
-    <ClCompile Include="2.15.1基数相加法c.cpp" />
+    <ClCompile Include="2.15.1基数相加法.c" />
     <ClCompile Include="2.15.2反转取余法.c" />
-    <ClCompile Include="2.15.3进制间相互转换c.cpp" />
+    <ClCompile Include="2.15.3进制间相互转换.c" />
     <ClCompile Include="2.15.4按位取反运算符以及整数的存储.c" />
     <ClCompile Include="2.15.5按位或、按位与.c" />
     <ClCompile Include="2.15.6按位异或.c" />

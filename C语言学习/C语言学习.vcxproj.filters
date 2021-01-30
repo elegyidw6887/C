@@ -405,13 +405,7 @@
     <ClCompile Include="2.14.U随机数应用.c">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.1基数相加法c.cpp">
-      <Filter>基础内容</Filter>
-    </ClCompile>
     <ClCompile Include="2.15.2反转取余法.c">
-      <Filter>基础内容</Filter>
-    </ClCompile>
-    <ClCompile Include="2.15.3进制间相互转换c.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.15.4按位取反运算符以及整数的存储.c">
@@ -451,6 +445,12 @@
       <Filter>基础内容</Filter>
     </ClCompile>
     <ClCompile Include="2.16.2文本模式与二进制模式.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.15.1基数相加法.c">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.15.3进制间相互转换.c">
       <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>
