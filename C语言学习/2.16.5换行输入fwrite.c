@@ -29,6 +29,8 @@ fwriteµÄ»»ĞĞÊäÈë
 //	fwrite(str3, sizeof(char), strlen(str3) + 1, pFile);
 //	int a = errno;
 //
+// fclose(pFile);
+//
 //	system("pause");
 //	return 0;
 //}
