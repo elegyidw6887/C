@@ -160,6 +160,7 @@
     <ClCompile Include="2.16.1文件操作fopen.c" />
     <ClCompile Include="2.16.2文本模式与二进制模式c.cpp" />
     <ClCompile Include="2.16.3fopen_s与errno.c" />
+    <ClCompile Include="2.16.4文件写入数据fwrite.c" />
     <ClCompile Include="3.1.0-【递归函数进阶】.cpp" />
   </ItemGroup>
   <ItemGroup>
